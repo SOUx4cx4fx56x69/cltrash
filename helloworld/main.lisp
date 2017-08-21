@@ -1,3 +1,4 @@
+#!/bin/usr/gcl -f
 (load "helloworld.o")
 (say-hello-to-world
  "VOID") ; checkcomment
